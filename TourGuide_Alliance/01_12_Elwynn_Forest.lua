@@ -115,6 +115,8 @@ A Collecting Kelp |QID|112| |N|William Pestle in Goldshire (43.43, 66.05)|
 N Train First Aid |QID|112| |N|Speak to Michelle Belle and train First Aid. Tick this step (43.43, 65.55)|
 
 R Crystal Lake |QID|112| |N|Travel to Crystal Lake (54, 66)|
+N Dirty Old Ring |QID|123| |N|Kill Murlocs until you find Dirty Old Ring to begin a new quest, you can skip this if you can't find it (50.3, 67)| |L|51856|
+A That Dirty Old Ring |QID|123| |N|Use Dirty Old Ring to accept quest| |U|515856| |O|
 C Collecting Kelp |QID|112| |N|Kill Murloc and Murloc Streamrunner and collect 4 Crystal Kelp Frond around the Crystal Lake (54, 66)|
 
 R Jasperlode Mine |QID|76| |N|Travel to Jasperlode Mine (61.70, 53.76)|
